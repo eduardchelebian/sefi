@@ -2,7 +2,9 @@
 
 ## Overview
 
-SEFI (SEgmentation-Free Integration) is a Python package for combining spatial transcriptomics data and morphological features. It uses a two-step clustering approach with k-means and hierarchical clustering.
+SEFI (SEgmentation-Free Integration) is a method for combining spatial transcriptomics data and morphological features. It uses a two-step clustering approach with k-means and hierarchical clustering.
+
+![](https://github.com/eduardchelebian/sefi/blob/main/workflow.png)
 
 ## Installation
 
